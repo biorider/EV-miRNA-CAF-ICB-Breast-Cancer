@@ -1,0 +1,24 @@
+{
+ "WI_tree": -0.24489439633879467,
+ "WI_mean": -0.28133250389597364,
+ "scores": {
+  "Glycolysis": -0.15862509319901769,
+  "OXPHOS": 0.086269303139777,
+  "TCA cycle": 0.0035985649866534346,
+  "Fatty acid oxidation": 0.03556444522514482,
+  "Fatty acid synthesis": 0.01572772715088573,
+  "Pentose phosphate": -0.0180841907165379,
+  "Glutamate/glutaminolysis": -0.2519539385790739,
+  "Lactate transport (MCT)": 0.069844014077799
+ },
+ "scores_mean": {
+  "Glycolysis": -0.15862509319901769,
+  "OXPHOS": 0.12270741069695597,
+  "TCA cycle": 0.0035985649866534346,
+  "Fatty acid oxidation": 0.03508192853448513,
+  "Fatty acid synthesis": 0.01572772715088573,
+  "Pentose phosphate": -0.0180841907165379,
+  "Glutamate/glutaminolysis": -0.2519539385790739,
+  "Lactate transport (MCT)": 0.069844014077799
+ }
+}
